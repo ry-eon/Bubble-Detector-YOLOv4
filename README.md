@@ -104,9 +104,7 @@ Models detection speech bubble in webtoons or cartoons. I have referenced and im
         + max_batches = 2000 (class * 2000)
         + steps = [1600, 1800], (max_batches * 0.8 , max_batches * 0.9)
         + train_dir = your dataset root 
-            + root tree 
-            + ![image](https://user-images.githubusercontent.com/61634628/106384599-16847a80-640f-11eb-94a4-ee8ab75649f1.png)
-            +  The image folder contains .jpg or .png image files. The XML folder contains .XML files(label).
+            + root tree <br> ![image](https://user-images.githubusercontent.com/61634628/106384599-16847a80-640f-11eb-94a4-ee8ab75649f1.png) <br> The image folder contains .jpg or .png image files. The XML folder contains .XML files(label).
               
     + cfg/yolov4.cfg
         + class 1
