@@ -126,3 +126,8 @@ Models detection speech bubble in webtoons or cartoons. I have referenced and im
 <br>
 
 ### Metric
+
+++ **1. validation dataset**
+|tawon_bw|tawon_color|tawon_Transparency|gasi_bw|gasi_color|gasi_Transparency|seonggye_bw|seonggye_color|seonggye_Transparency|sagak_bw|sagak_color|sagak_Transparency|gurm_bw|gurm_color|gurm_Transparency|
+|----|----|-----|-----|-----|-----|-----|-----|-----|------|-----|-----|-----|-----|------|
+|116|70|68|65|29|59|51|43|44|42|33|69|47|2|12|
