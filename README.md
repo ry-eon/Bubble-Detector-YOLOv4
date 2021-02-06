@@ -129,6 +129,11 @@ Models detection speech bubble in webtoons or cartoons. I have referenced and im
 
 + **1. validation dataset**
 
-|tawon_bw|tawon_color|tawon_Transparency|gasi_bw|gasi_color|gasi_Transparency|seonggye_bw|seonggye_color|seonggye_Transparency|sagak_bw|sagak_color|sagak_Transparency|gurm_bw|gurm_color|gurm_Transparency|
-|----|----|-----|-----|-----|-----|-----|-----|-----|------|-----|-----|-----|-----|------|
-|116|70|68|65|29|59|51|43|44|42|33|69|47|2|12|
+
+|tawon_bw|tawon_color|tawon_Transparency|gasi_bw|gasi_color|gasi_Transparency|seonggye_bw|seonggye_color|seonggye_Transparency|sagak_bw|sagak_color|sagak_Transparency|gurm_bw|gurm_color|gurm_Transparency|total|
+|----|----|-----|-----|-----|-----|-----|-----|-----|------|-----|-----|-----|-----|------|----|
+|116|70|68|65|29|59|51|43|44|42|33|69|47|2|12|750|
+
+
++ The above distribution is based on speech bubbles, not cuts.
++ The distribution is not constant because there are a number of speech bubbles inside a single cut. In addition, for some classes, examples are difficult to find, resulting in an unbalanced distribution as shown above.
