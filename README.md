@@ -40,7 +40,7 @@ Models detection speech bubble in webtoons or cartoons. I have referenced and im
 `standard`
 + shape : Ellipse(tawon), Thorn(gasi), Sea_urchin(seonggye), Rectangle(sagak), Cloud(gurm)
 + Color : Black/white(bw), Colorful(color), Transparency(tran), Gradation
-+ Form : Basic, Double Tpeech bubble, Multi-External, Scatter-type
++ Form : Basic, Double Speech bubble, Multi-External, Scatter-type
 + example image ![image](https://user-images.githubusercontent.com/61634628/106093155-1700e500-6173-11eb-9a5e-8828c45271c4.png)
  
 + **In this project, two categories are applied, shape and color, and form and Gradation are classified as ect.**
